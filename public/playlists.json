@@ -2,48 +2,40 @@
   "playlists": [
     {
       "name": "Epic Fantasy Music",
-      "url": "https://www.youtube.com/playlist?list=PL1234567890abcdef",
-      "description": "Epic fantasy background music for D&D sessions."
+      "url": "https://www.youtube.com/playlist?list=PL1234567890abcdef"
     },
     {
       "name": "Ambient Dungeon Sounds",
-      "url": "https://www.youtube.com/playlist?list=PLabcdef1234567890",
-      "description": "Ambient dungeon and cave sounds."
+      "url": "https://www.youtube.com/playlist?list=PLabcdef1234567890"
     },
     {
       "name": "Jazzy City",
       "url": "https://www.youtube.com/playlist?list=PLGUxGnMD4cjQ348i4Rgubf-zwIQfB8_O5",
-      "description": "D&D playlist: Jazzy City",
       "tags": ["city", "jazz", "tavern"]
     },
     {
       "name": "Racing funk",
       "url": "https://www.youtube.com/playlist?list=PLGUxGnMD4cjQ75AkeWicXCTyq8Ao7unlX",
-      "description": "D&D playlist: Racing funk",
       "tags": ["battle", "funk"]
     },
     {
       "name": "General Bael - Bagpipes Rock",
       "url": "https://www.youtube.com/playlist?list=PLGUxGnMD4cjSi0YUdZF3NsaC0FBR19qkx",
-      "description": "D&D playlist: General Bael - Bagpipes Rock",
       "tags": ["battle", "bagpipes", "rock"]
     },
     {
       "name": "Start Session",
       "url": "https://www.youtube.com/playlist?list=PLGUxGnMD4cjQbbcsFD7p7DPiQ81SVOU8R",
-      "description": "D&D playlist: Start Session",
       "tags": ["ambient", "intro"]
     },
     {
       "name": "Elektro Fight",
       "url": "https://www.youtube.com/playlist?list=PLGUxGnMD4cjTOq49TJM-IB2nempHYAtXm",
-      "description": "D&D playlist: Elektro Fight",
       "tags": ["battle", "electro"]
     },
     {
       "name": "Uhyggeligt",
       "url": "https://www.youtube.com/playlist?list=PLGUxGnMD4cjR5VEMwCPklbLyTKZzwv8VY",
-      "description": "D&D playlist: Uhyggeligt",
       "tags": ["creepy", "ambient"]
     },
     {
@@ -219,182 +211,34 @@
       "name": "Ravenhill",
       "url": "https://www.youtube.com/playlist?list=PLGUxGnMD4cjRLCUluB-3GVK5Bsr0958zj",
       "description": "D&D playlist: Ravenhill"
-    },
-    {
-      "name": "Tian-Lung",
-      "url": "https://www.youtube.com/playlist?list=PLGUxGnMD4cjSsIrVac78TiZWG6XU1JpyO",
-      "description": "D&D playlist: Tian-Lung"
-    },
-    {
-      "name": "Storslået og Episk sted",
-      "url": "https://www.youtube.com/playlist?list=PLGUxGnMD4cjQIAFoxjySs9cokn0qmzObk",
-      "description": "D&D playlist: Storslået og Episk sted"
-    },
-    {
-      "name": "Sinister - Goblins",
-      "url": "https://www.youtube.com/playlist?list=PLGUxGnMD4cjS1P-8yebuFezjxE1OiHnOe",
-      "description": "D&D playlist: Sinister - Goblins"
-    },
-    {
-      "name": "Qvorum Mountain",
-      "url": "https://www.youtube.com/playlist?list=PLGUxGnMD4cjSBXjfwyeNIwkrHp51S4Xnb",
-      "description": "D&D playlist: Qvorum Mountain"
-    },
-    {
-      "name": "Invicta",
-      "url": "https://www.youtube.com/playlist?list=PLGUxGnMD4cjQrMWkoQ7KVTfgBb1SShvNG",
-      "description": "D&D playlist: Invicta"
-    },
-    {
-      "name": "Grensh Chasm",
-      "url": "https://www.youtube.com/playlist?list=PLGUxGnMD4cjQnZzDs1XL5r8-7uR92UGM5",
-      "description": "D&D playlist: Grensh Chasm"
-    },
-    {
-      "name": "Zhorcaster",
-      "url": "https://www.youtube.com/playlist?list=PLGUxGnMD4cjRFqq9kLfYO4_p6CtUOErMF",
-      "description": "D&D playlist: Zhorcaster"
-    },
-    {
-      "name": "Atisukumbu",
-      "url": "https://www.youtube.com/playlist?list=PLGUxGnMD4cjTj5wObsw6kv-sqp1LfE3HR",
-      "description": "D&D playlist: Atisukumbu"
-    },
-    {
-      "name": "Eversong",
-      "url": "https://www.youtube.com/playlist?list=PLGUxGnMD4cjQR2-JNQKTgm3xHdkdSE5Hv",
-      "description": "D&D playlist: Eversong"
-    },
-    {
-      "name": "Flod og skov",
-      "url": "https://www.youtube.com/playlist?list=PLGUxGnMD4cjTP78udcxC1lbKjRp4xPAP1",
-      "description": "D&D playlist: Flod og skov"
-    },
-    {
-      "name": "Imis Dream",
-      "url": "https://www.youtube.com/playlist?list=PLGUxGnMD4cjT0P39IrB7nVXTl2gs0w42s",
-      "description": "D&D playlist: Imis Dream"
-    },
-    {
-      "name": "Crimson Dream",
-      "url": "https://www.youtube.com/playlist?list=PLGUxGnMD4cjSSMN_ejYcr0zNEZRnWQpUM",
-      "description": "D&D playlist: Crimson Dream"
-    },
-    {
-      "name": "Kerrioc Mines",
-      "url": "https://www.youtube.com/playlist?list=PLGUxGnMD4cjToab8P4OqGhq9EUIx5a_-k",
-      "description": "D&D playlist: Kerrioc Mines"
-    },
-    {
-      "name": "Kerrioc Mining",
-      "url": "https://www.youtube.com/playlist?list=PLGUxGnMD4cjTKayUsuWNOEkN-gUDeyuF2",
-      "description": "D&D playlist: Kerrioc Mining"
-    },
-    {
-      "name": "Levende by",
-      "url": "https://www.youtube.com/playlist?list=PLGUxGnMD4cjSAZoOtnkOcy475MKFJGfdH",
-      "description": "D&D playlist: Levende by"
-    },
-    {
-      "name": "Skib - Pirater",
-      "url": "https://www.youtube.com/playlist?list=PLGUxGnMD4cjTtCG5L8bdJYPT2V-TTUAyl",
-      "description": "D&D playlist: Skib - Pirater"
-    },
-    {
-      "name": "Tavern",
-      "url": "https://www.youtube.com/playlist?list=PLGUxGnMD4cjT5oCyz76epJj8SOWObQuTn",
-      "description": "D&D playlist: Tavern"
-    },
-    {
-      "name": "Motysha",
-      "url": "https://www.youtube.com/playlist?list=PLGUxGnMD4cjSMIE66RKU1m2SCL3d1OfER",
-      "description": "D&D playlist: Motysha"
-    },
-    {
-      "name": "Undead kamp",
-      "url": "https://www.youtube.com/playlist?list=PLGUxGnMD4cjSFm7x90cztli6rEx-4IS-k",
-      "description": "D&D playlist: Undead kamp"
-    },
-    {
-      "name": "Colluseum",
-      "url": "https://www.youtube.com/playlist?list=PLGUxGnMD4cjQrVazapGKf1OjabD8qKDDX",
-      "description": "D&D playlist: Colluseum"
-    },
-    {
-      "name": "Drukar (Viking)",
-      "url": "https://www.youtube.com/playlist?list=PLGUxGnMD4cjTEci1PM48K1b0Z1rYdHhOE",
-      "description": "D&D playlist: Drukar (Viking)"
-    },
-    {
-      "name": "Op til kamp",
-      "url": "https://www.youtube.com/playlist?list=PLGUxGnMD4cjTCfjsevkktBg3ifqC3J3UQ",
-      "description": "D&D playlist: Op til kamp"
-    },
-    {
-      "name": "Around the Campfire",
-      "url": "https://www.youtube.com/playlist?list=PLGUxGnMD4cjStEWt8yQOb_ocqdkyOM4AB",
-      "description": "D&D playlist: Around the Campfire"
-    },
-    {
-      "name": "Kirke musik",
-      "url": "https://www.youtube.com/playlist?list=PLGUxGnMD4cjSr5rlps_xB4Ov0KX9sw8ll",
-      "description": "D&D playlist: Kirke musik"
-    },
-    {
-      "name": "Fight",
-      "url": "https://www.youtube.com/playlist?list=PLGUxGnMD4cjTgJf2RpdR6MGGL7wESLJMF",
-      "description": "D&D playlist: Fight"
-    },
-    {
-      "name": "Catacombs",
-      "url": "https://www.youtube.com/playlist?list=PLGUxGnMD4cjSzDek32MwBbBNt3aS59tpm",
-      "description": "D&D playlist: Catacombs"
-    },
-    {
-      "name": "Mørk Ambience - Evil City",
-      "url": "https://www.youtube.com/playlist?list=PLGUxGnMD4cjShWO_yn3meePEH_jvxFLuY",
-      "description": "D&D playlist: Mørk Ambience - Evil City"
-    },
-    {
-      "name": "Fight epic",
-      "url": "https://www.youtube.com/playlist?list=PLGUxGnMD4cjSPoGMUUyMfX3R8d0DHkT7s",
-      "description": "D&D playlist: Fight epic"
-    },
-    {
-      "name": "Ondt sted",
-      "url": "https://www.youtube.com/playlist?list=PLGUxGnMD4cjQiOUpaHt8dP7OGFwHoYs3k",
-      "description": "D&D playlist: Ondt sted"
-    },
-    {
-      "name": "Stille Tavern",
-      "url": "https://www.youtube.com/playlist?list=PLGUxGnMD4cjQ348i4Rgubf-zwIQfB8_O5",
-      "description": "D&D playlist: Stille Tavern"
-    },
-    {
-      "name": "Stilheden efter kampen",
-      "url": "https://www.youtube.com/playlist?list=PLGUxGnMD4cjQ75AkeWicXCTyq8Ao7unlX",
-      "description": "D&D playlist: Stilheden efter kampen"
-    },
-    {
-      "name": "Elver musik",
-      "url": "https://www.youtube.com/playlist?list=PLGUxGnMD4cjSi0YUdZF3NsaC0FBR19qkx",
-      "description": "D&D playlist: Elver musik"
-    },
-    {
-      "name": "Skov musik",
-      "url": "https://www.youtube.com/playlist?list=PLGUxGnMD4cjQbbcsFD7p7DPiQ81SVOU8R",
-      "description": "D&D playlist: Skov musik"
-    },
-    {
-      "name": "Travel Musik",
-      "url": "https://www.youtube.com/playlist?list=PLGUxGnMD4cjTOq49TJM-IB2nempHYAtXm",
-      "description": "D&D playlist: Travel Musik"
-    },
-    {
-      "name": "Stille by 'nat'",
-      "url": "https://www.youtube.com/playlist?list=PLGUxGnMD4cjR5VEMwCPklbLyTKZzwv8VY",
-      "description": "D&D playlist: Stille by 'nat'"
     }
+
   ],
-  "effects": []
+  "effects": [
+    {
+      "name": "Door Creak",
+      "icon": "🚪",
+      "file": "door_creak.mp3"
+    },
+    {
+      "name": "Sword Clash",
+      "icon": "⚔️",
+      "file": "sword_clash.mp3"
+    },
+    {
+      "name": "Magic Spell",
+      "icon": "✨",
+      "url": "https://www.youtube.com/watch?v=example1"
+    },
+    {
+      "name": "Thunder",
+      "icon": "⚡",
+      "url": "https://www.youtube.com/watch?v=example2"
+    },
+    {
+      "name": "Footsteps",
+      "icon": "👣",
+      "file": "footsteps.mp3"
+    }
+  ]
 }
